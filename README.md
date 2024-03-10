@@ -1,7 +1,8 @@
 
-# AutoInspectPro
+# AutoInspectPro ©
 
-A Flask based Server Application for **Vehicle Damage Assessment** using AI
+Automated Vehicle Damage Asssessment System
+
 
 [![](https://img.shields.io/badge/python-3.7-blue.svg)]()
 [![](https://img.shields.io/badge/Detectron2-0.6-brightgreen.svg)]()
@@ -21,6 +22,7 @@ A Flask based Server Application for **Vehicle Damage Assessment** using AI
 
 This is a sample [demo](https://drive.google.com/file/d/1Csj1Q6oQPkw9a0qZLNkifSWSAdj4m0Mi/view?usp=sharing) video of the project.
 
+A Flask based Server Application for **Vehicle Damage Assessment** using AI
 
 
 ## ✨ Code-base structure
